@@ -1,2 +1,2 @@
 # job-grabby
-Laravel Dusk Project that grabs from _insert_job_
+Laravel Dusk Project that grabs from _insert_job_site_
